@@ -1,0 +1,14 @@
+
+
+# Directories #
+###############
+node_modules/
+bower_components/
+.tmp/
+
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+
